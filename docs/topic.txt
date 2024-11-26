@@ -1,0 +1,21 @@
+Nghiên cứu mã định danh phi tập trung DID ứng dụng trong chứng thực mật mã khóa công khai
+
+Chương 1: Tổng quan về quản lý danh tính. 
+Khái niệm cơ bản 
+Tiến trình, Vòng đời, mức đảm bảo trong quản lý danh tính 
+Mô hình, ứng dụng, tồn tại quản lý danh tính số  
+Chương 2: Mã định danh DID 
+2.1. Danh tính tự chủ 
+2.2. Mã định danh phi tập trung 
+2.3. Ứng dụng của mã định danh phi tập trung  
+2.4. Hệ thống quản lý mã danh tính phi tập trung 
+Chương 3: Triển khai Hệ thông quản lý mã định danh phi tập trung 
+3.1. Tổng quan hệ thống 
+3.2. Triển khai mạng ứng dụng server trên Hyperledger Indy 
+3.3. Triển khai ứng dụng client trên Hyperledger Aries 
+3.4. Vận hành hệ thống 
+3.5. Đánh giá kết quả 
+
+Hyperledger indy node Python 
+
+

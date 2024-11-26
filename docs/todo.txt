@@ -1,0 +1,21 @@
+Báo cáo 30 - 40 trang (làm flow theo form của ip spoofing) 
+
+Chương 1 t viết form r t gửi cho m 
+
+Tìm hiểu và triển khai mạng ứng dụng trên hyperledfer indy 
+(nó hỗ trợ nhiều ngôn ngữ nhưng mà dùng python, trên github có hyperledger indy node
+viết bằng python và python3-indy) tìm hiểu và kết hợp với một số thư viện để tạo 
+server 
+
+Tìm hiểu và triển khai ứng dụng client trên Hyperledfer Aries (cái này hỗ trợ 
+nhiều ngôn ngữ net, go, ruby, rust, python) nhưng chọn python để sử dụng
+Cài thư viện acapy 
+
+Quan trọng demo 2 cái trên (t thấy trong docs của nó khi cài acapy thấy có cả
+tkinter nên m là luôn UI trên tkinter cũng đc)
+
+https://pypi.org/project/acapy/
+https://pypi.org/project/python3-indy/
+https://github.com/openwallet-foundation/acapy
+
+Như v là xong còn docs t sẽ hd và gửi m sau, trong ngày mai có report khung để cho m làm
