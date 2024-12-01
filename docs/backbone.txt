@@ -1,0 +1,70 @@
+Chương 1. Quản lý danh tính số (25 trang)
+1.1. Một số khái niệm
+1.1.1. Thực thể
+1.1.2. Thuộc tính
+1.1.3. Danh tính
+1.1.4. Mã định danh
+1.1.5. Danh tính số
+1.2. Tiến trình quản lý danh tính số
+1.2.1. Định danh
+1.2.2. Xác thực
+1.2.3. Uỷ quyền
+1.3. Các pha trong quản lý danh tính
+1.3.1. Đăng kí danh tính
+1.3.2. Xác thực danh tính
+1.3.3. Cấp phát và quản lý mã định danh
+1.3.4. Sử dụng danh tính
+1.3.5. Huỷ bỏ danh tính
+1.4. Mức đảm bảo trong quản lý danh tính
+1.4.1. Identity Assurance Level (IAL)
+1.4.2. Authenticator Assurance Level (AAL)
+1.4.3. Federation Assurance Level (FAL)
+1.5. Hệ thống quản lý danh tính số
+1.5.1. Kiến trúc hệ thống
+1.5.2. Mô hình hoạt động
+1.6. Mô hình quản lý danh tính số
+1.6.1. Mô hình tập trung
+1.6.2. Mô hình liên hiệp
+1.6.3. Mô hình người dùng trung tâm
+1.6.4. Mô hình dựa trên định danh tự chủ
+1.7. Ứng dụng quản lý danh tính số
+1.8. Một số tồn tại quản lý danh tính số
+Kết luận Chương 1
+Chương 2. Mã định danh phi tập trung (DID) (30 trang)
+2.1. Định danh tự chủ
+2.1.1. Khái niệm
+2.1.2. Kiến trúc hệ thống danh tính tự chủ
+2.1.3. Các thành phần trong hệ thống danh tính tự chủ
+2.1.4. Các layer trong danh tính tự chủ
+2.2. Mã định danh phi tập trung
+2.2.1. Khái niệm, cú pháp mã định danh phi tập trung
+2.2.2. Kiến trúc mã định danh phi tập trung
+2.2.2.1. DID Document							
+2.2.2.2. DID Actions
+2.2.2.3. VERIFIABLE DATA REGISTRY
+2.2.3. Ứng dụng DID trong thực tế
+2.3. Ứng dụng của mã định danh phi tập trung trong VC và VP
+2.3.1. Verifiable Credentials (VC)
+2.3.1.1. Khái niệm
+2.3.1.2. Các thành phần
+2.3.1.3. Mô hình hoạt động
+2.3.2. Verfiable Presentation (VP)
+2.3.2.1. Khái niệm
+2.3.2.2. Các thành phần
+2.3.2.3. Mô hình hoạt động
+2.4. Hệ thống quản lý danh tính phi tập trung
+2.4.1. Kiến trúc và Thành phần hệ thống
+2.4.2. Quá trình quản lý và xác thực danh tính
+2.4.3. Cơ chế bảo mật trong hệ thống
+2.4.4. Ưu điểm và thách thức đối với hệ thống
+Kết luận Chương 2
+Chương 3. Triển khai Hệ thống quản lý mã định danh phi tập trung (35 trang)
+3.1. Tổng quan hệ thống
+3.1.1. Mô hình triển khai
+3.1.2. Giới thiệu về công cụ HyperledgerIndy và Hyperledger Aries
+3.1.3. Giới thiệu mạng phi tập trung quản lý danh tính dựa trên Hyperledger Indy
+3.1.4. Giới thiệu ứng dụng Dapp quản lý mã định danh phi tập trung
+3.2. Triển khai hệ thống quản lý mã định danh phi tập trung trên Hyperledger Indy
+3.2.1. Cài đặt và cấu hình Hypereledger Indy
+3.2.2. Tạo và quản lý danh tính trên Hyperledger Indy
+3.2.3. Triển khai mạng lên môi trường production
